@@ -60,7 +60,7 @@ All models were trained and evaluated on a test set split (80/20) and showed str
 
 **Author**: Om Manoj Pajgade  
 **Course**: B.Tech CSE (AI & ML), 6th Semester  
-📧 om.manoj@example.com *(update if you want)*
+📧 ompajgade@gmail.com *(update if you want)*
 
 ---
 
