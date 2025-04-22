@@ -45,20 +45,6 @@ All models were trained and evaluated on a test set split (80/20) and showed str
 
 ---
 
-## 📁 Project Structure
-
-iris-flower-classification/ ├── Iris Flower Classification.ipynb 
-# Main Jupyter Notebook ├── README.md 
-# Project documentation ├── requirements.txt 
-# (Optional) List of dependencies ├── dataset/ 
-# (Optional) Folder for any custom datasets │ └── iris.csv 
-# (Optional) If using a .csv version of Iris dataset ├── images/ 
-# (Optional) EDA or result visualizations │ └── pairplot.png │ └── heatmap.png └── models/ 
-# (Optional) Saved trained models └── svm_model.pkl
-
-
----
-
 ## 🚀 How to Run This Project
 
 1. **Clone this repository**:
